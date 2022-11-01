@@ -1,0 +1,14 @@
+name: E-Vehicle
+title: E-Vehicle
+username:
+account: asirech
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7463980
+bundleId: 6456213
+url: https://asirech.shinyapps.io/E-Vehicle/
+when: 1667141158.98557
+lastSyncTime: 1667141158.98559
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: source_code.r
